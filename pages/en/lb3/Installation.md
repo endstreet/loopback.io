@@ -12,6 +12,9 @@ summary: Install LoopBack tools to create and develop LoopBack 3.0 apps.
 
 If you haven't already installed Node, [download and install Node.js](http://nodejs.org/en/download).  For best results, use the latest LTS (long-term support) release of Node.js.
 
+Install Python ver >2.5  &&  <3.0
+Install OpenSSL.
+
 {% include warning.html content="LoopBack does not support Node.js versions prior to 4.x.
 " %}
 
